@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
       "id": 4,
       "message": "Workstation 026 is up and running",
       "attention": false,
@@ -15,18 +8,18 @@
       "date": "2019-05-31T19:57:35.544Z"
     },
     {
-      "message": "Changed network card on server 112",
-      "attention": false,
-      "tech": "B Smith",
-      "date": "2019-11-07T19:27:47.489Z",
-      "id": 5
-    },
-    {
       "message": "Hard Drive failed at HomeField 222",
       "attention": true,
       "tech": "Sam Smith",
       "date": "2019-11-07T19:28:51.967Z",
       "id": 6
+    },
+    {
+      "id": 7,
+      "message": "Wireless up again at ws 101",
+      "attention": false,
+      "tech": "B Smith",
+      "date": "2019-11-25T22:05:27.951Z"
     }
   ],
   "techs": [
