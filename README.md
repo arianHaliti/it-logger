@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How To Run ?
+
+To run this project just clone it and run `npm install`.
+Then run the custom script `npm run dev` which runs the json-server and npm start command concurrently.
 
 ## Available Scripts
 
